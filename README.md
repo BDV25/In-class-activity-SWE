@@ -3,5 +3,5 @@
 ### Demonstration
 Author: **Ben Vail**
 ```bash
-download me haha just kidding
+run me haha just kidding
 ```
