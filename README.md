@@ -1,2 +1,1 @@
-# In-class-activity-SWE
-Exercise: Communicate using GitHub
+## This is an overview of how to communicate in GitHub
